@@ -1,0 +1,36 @@
+🕵️ Complex Spam Examples
+
+"Dear Customer, Our records show unusual login attempts on your bank account. To protect your funds, kindly verify your identity at secure-bank123.com immediately. Failure to comply may result in temporary suspension."
+
+"Congratulations 🎉 You have been shortlisted for a special reward worth $500 Amazon Gift Card. Please confirm your details by replying YES within 24 hours."
+
+"Hello user, Your parcel has been held at customs due to unpaid charges. Pay ₹299 immediately using the link below to release your package."
+
+"FINAL NOTICE: Your car insurance policy has expired. Renew NOW to avoid penalties. Click here to make payment instantly."
+
+"URGENT ALERT ⚠️: Your mobile number has won 10,00,000 INR in an International Lottery. To claim, send your personal details (Name, DOB, Address) to claimprize@lotteryintl.com."
+
+"We are giving away free Netflix premium accounts for the first 100 users. Claim yours at netflix-premiumfree.com."
+
+"Attention: Your PayPal account has been flagged for unusual activity. Log in at paypal-verifycenter.com to restore access."
+
+"Exclusive business proposal: I am a wealthy investor seeking a trustworthy partner to transfer $5 million overseas. You will receive 20% commission. Kindly reply if interested."
+
+
+📧 Complex HAM Examples
+
+"Hi John, The system flagged your account for unusual login activity yesterday from a new device. Don’t worry, I checked the logs and confirmed it was you logging in from your tablet. No action needed, just keep your password safe."
+
+"Reminder: Your electricity bill for August is now available online. Kindly pay before the due date (15th Sept) to avoid late fees. You can pay through the official electricity board website or authorized apps only."
+
+"Hello Team, Please review the attached draft of the annual project report. I have highlighted sections that need further data validation before submission. Let’s finalize this by Friday so we can meet the deadline."
+
+"Dear Customer, Thank you for booking your flight with Indigo Airlines. Your ticket has been confirmed. Please find the e-ticket and boarding pass attached. Have a safe journey!"
+
+"This is to inform you that your exam hall ticket is now available for download. Visit the university portal, log in with your credentials, and take a printout before exam day."
+
+"Hi Priya, Just a quick heads-up: the conference call link has been updated. Use the Zoom link below at 4:00 PM. Agenda includes budget approvals and Q4 strategy discussion."
+
+"Your package has been shipped and is expected to be delivered by Tuesday, 5th September. Track your parcel using the tracking ID: BLR456789 via the courier’s official site."
+
+"Meeting rescheduled: The client presentation originally planned for tomorrow is now moved to Friday at 3 PM. Updated calendar invite has been sent to everyone."
