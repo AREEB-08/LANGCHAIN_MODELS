@@ -1,0 +1,26 @@
+# Python
+
+6.YOUTUBE_CHATBOT
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+new_environment/
+new_environments/
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment Variables
+.env
+
+# VS Code
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
